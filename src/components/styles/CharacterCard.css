@@ -1,0 +1,8 @@
+.card,
+.card-body {
+  border: none;
+}
+
+.card .img-card-top {
+  border-radius: 0.25rem;
+}

@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Rick and Morty Characters
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Meet all the characters of Rick and Morty within this development in React. 
+<br/>
+*This project is only for educational purposes, for React and the consumption of an API.*
 
-## Available Scripts
+<img src="/docs/Screen%20Shot%202024-12-28%20at%2015.53.07.png" width="750px" alt="rick-morty-screenshot">
 
-In the project directory, you can run:
+Made for demonstration purposes only.
 
-### `npm start`
+## ✅ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Show Characters
+- Paginate
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+_(All static)._
 
-### `npm test`
+## ⚙️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React 17
+- Bootstrap 4.6
 
-### `npm run build`
+## 💾 Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Install and run
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone and move to folder
+```bash
+$ git clone git@github.com:abrahamuchos/api-rick-morty.git
+$ cd api-rick-morty
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Install dependencies
+```bash
+$  npm install
+```
 
-### `npm run eject`
+3. Run dev `npm run start`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🔗 Links
+- [Repository](https://github.com/abrahamuchos/nike-landing)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📷 Screenshot
+<img src="/docs/Screen%20Shot%202024-12-28%20at%2015.53.07.png" width="550px" alt="olga-landingpage">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🧑‍💻 Authors
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [@abrahamuchos](https://github.com/abrahamuchos)
+- [Contact mail](mailto:j.abraham29@gmail.com)
 
-## Learn More
+## 📄 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT](https://choosealicense.com/licenses/mit/)

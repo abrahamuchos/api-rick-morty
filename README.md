@@ -38,10 +38,10 @@ $  npm install
 3. Run dev `npm run start`
 
 ## 🔗 Links
-- [Repository](https://github.com/abrahamuchos/nike-landing)
+- [Repository](https://github.com/abrahamuchos/api-rick-morty)
 
 ## 📷 Screenshot
-<img src="/docs/Screen%20Shot%202024-12-28%20at%2015.53.07.png" width="550px" alt="olga-landingpage">
+<img src="/docs/Screen%20Shot%202024-12-28%20at%2015.53.07.png" width="550px" alt="rick-morty-screenshot">
 
 ## 🧑‍💻 Authors
 
